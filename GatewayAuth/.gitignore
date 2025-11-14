@@ -1,21 +1,15 @@
-﻿# Build output
-bin/
-obj/
-
-# Visual Studio cache
+﻿# Visual Studio
 .vs/
-*.user
 *.suo
 
-# Rider cache
-.idea/
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Secrets
-appsettings.Development.json
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates

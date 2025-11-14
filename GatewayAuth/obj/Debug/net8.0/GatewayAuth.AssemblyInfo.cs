@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GatewayAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36f50658d2fafa88617d03774273ec5a684a183")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56180da6de94e560bbb782bd051c4b78261542f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GatewayAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GatewayAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

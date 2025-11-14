@@ -18,6 +18,7 @@ D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.AssemblyI
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.csproj.CoreCompileInputs.cache
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.MvcApplicationPartsAssemblyInfo.cs
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.sourcelink.json
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -33,4 +34,3 @@ D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\refint\GatewayAuth.dl
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.pdb
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.genruntimeconfig.cache
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\ref\GatewayAuth.dll
-D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.sourcelink.json
