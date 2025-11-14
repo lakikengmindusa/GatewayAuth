@@ -33,3 +33,4 @@ D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\refint\GatewayAuth.dl
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.pdb
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.genruntimeconfig.cache
 D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\ref\GatewayAuth.dll
+D:\GitProject\API\GatewayAuth\GatewayAuth\obj\Debug\net8.0\GatewayAuth.sourcelink.json
